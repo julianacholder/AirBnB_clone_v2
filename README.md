@@ -365,7 +365,7 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Brennan D Baraban** <[bdbaraban](https://github.com/bdbaraban)>
+* **Juliana** <[bdbaraban](https://github.com/bdbaraban)>
 * **Samie Azad** <[sazad44](https://github.com/sazad44)>
 * **Andrew Lindburg** <[atlindburg](https://github.com/atlindburg)>
 * **Kevin Yook** <[yook00627](https://github.com/yook00627)>
